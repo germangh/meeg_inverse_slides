@@ -1,6 +1,6 @@
 # Compiled Latex sources
 *.dvi
-tex/*.pdf
+./*.pdf
 
 # Auxiliary latex files
 *.log
