@@ -1,0 +1,21 @@
+# Compiled Latex sources
+*.dvi
+tex/*.pdf
+
+# Auxiliary latex files
+*.log
+*.nav
+*.blg
+*.bbl
+*.aux
+*.toc
+*.snm
+*.vrb
+*.out
+*.syntex.gz
+
+# Backups
+~*
+
+# Reference materials
+references/*
